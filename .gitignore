@@ -1,2 +1,3 @@
 /.idea
 /lessons/.ipynb_checkpoints
+/lessons/__pycache__
